@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Support-GitHub-HelloWorld
+//  Support_GitHub_HelloWorld_Brandommoore
 //
-//  Created by Ignasi Perez-Valls on 10/7/23.
+//  Created by Córdoba Velicias Manuel on 10/7/23.
 //
 
 import UIKit
